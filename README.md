@@ -1,5 +1,2 @@
-# portfoli-project
-
-# Author: md. mahmudul hasan
-
-# this my first milestone project.
+https://mm-hasan.github.io/portfoli-project/
+(another project designed with html and css)
